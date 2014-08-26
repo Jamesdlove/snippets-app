@@ -35,3 +35,215 @@ INFO:root:Writing spam:cats to snippets.csv
 DEBUG:root:Opening file
 DEBUG:root:Writing snippet to file
 DEBUG:root:Write sucessful
+INFO:root:Writing spametstettststetst:eggs11232212 to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Reading spametstettststetst from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spametstettststetst from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spametstettststetst from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spametstettststetst from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spametstettststetst from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spametstettststetst from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing James:apples to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Reading James from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing spam22:eggs33 to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam22 from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam22 from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam22 from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading james from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading James from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading green eggs from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading green eggs from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading spam from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading james from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading green from eggs
+DEBUG:root:Opening file
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading green eggs from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading green eggs from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing tests:cats to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Reading tests from snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:read sucessful
